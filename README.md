@@ -13,6 +13,7 @@ An early prototype of a location-based storytelling app for kids, inspired by Po
 Users can draw red dots using right-click interaction on the screen.
 
 🖼️ Background Image Setup
+A_digital_painting_depicts_an_enchanting_forest_ba.png
 Framework for loading an enchanting forest-themed background image.
 
 ⚙️ Modular Codebase
